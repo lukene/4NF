@@ -1,0 +1,22 @@
+Year	Series		Country		State Province				City Name		Team Name					Team Info														Jersey Name		Jersey Number		Player Name				Player position
+1987	4-2			USA			California					Los Angeles		Lakers						https://www.nba.com/lakers/;Total Championships 17				Green			45					A.C. Green				Power Forward
+1988	4-3			USA			California					Los Angeles		Lakers						https://www.nba.com/lakers/;Total Championships 17				Green			45					A.C. Green				Power Forward
+1991	4-1			USA			Illinois					Chicago			Bulls						https://www.nba.com/bulls/;Total Championships 6				Jordan			23,12,45			Michael Jordan			Shooting Guard					12 one time 1990-02-14
+1992	4-2			USA			Illinois					Chicago			Bulls						https://www.nba.com/bulls/;Total Championships 6				Jordan			23,12,45			Michael Jordan			Shooting Guard					12 one time 1990-02-14
+1993	4-2			USA			Illinois					Chicago			Bulls						https://www.nba.com/bulls/;Total Championships 6				Jordan			23,12,45			Michael Jordan			Shooting Guard					12 one time 1990-02-14
+1996	4-2			USA			Illinois					Chicago			Bulls						https://www.nba.com/bulls/;Total Championships 6				Jordan			23,12,45			Michael Jordan			Shooting Guard					45-55%;23-45%
+1997	4-2			USA			Illinois					Chicago			Bulls						https://www.nba.com/bulls/;Total Championships 6				Jordan			23,12,45			Michael Jordan			Shooting Guard					12 one time 1990-02-14
+1998	4-2			USA			Illinois					Chicago			Bulls						https://www.nba.com/bulls/;Total Championships 6				Jordan			23,12,45			Michael Jordan			Shooting Guard					12 one time 1990-02-14
+2000	4-2			USA			California					Los Angeles		Lakers						https://www.nba.com/lakers/;Total Championships 17				Green			45					A.C. Green				Power Forward
+2003	4-2			USA			Texas						San Antonio		Spurs						https://www.nba.com/spurs/;Total Championships 5				Parker			9					Tony Parker				Point Guard
+2012	4-1			USA			Florida						Miami			Heat						https://www.nba.com/heat/;Total Championships 3					James			23					Lebron James			Small Forward;Power Forward
+2013	4-3			USA			Florida						Miami			Heat						https://www.nba.com/heat/;Total Championships 3					James			23					Lebron James			Small Forward;Power Forward
+2014	4-1			USA			Texas						San Antonio		Spurs						https://www.nba.com/spurs/;Total Championships 5				Parker			9					Tony Parker				Point Guard
+2014	4-1			USA			Texas						San Antonio		Spurs						https://www.nba.com/spurs/;Total Championships 5				Leonard			2					Kawhi Leonard			Small Forward
+2014	4-1			USA			Texas						San Antonio		Spurs						https://www.nba.com/spurs/;Total Championships 5				Green			14					Danny Green				Shooting Guard;Small Forward
+2015	4-2			USA			California					San Francisco	Golden State Warriors		https://www.nba.com/warriors/;Total Championships 6				Curry			30					Stephen Curry			Point Guard
+2016	4-3			USA			Ohio						Cleveland		Cavaliers					https://www.nba.com/cavaliers/;Total Championships 1			James			23					Lebron James			Small Forward;Power Forward
+2019	4-2			Canada		Ontario						Toronto			Raptors						https://www.nba.com/raptors/;Total Championships 1				Leonard			2					Kawhi Leonard			Small Forward
+2019	4-2			Canada		Ontario						Toronto			Raptors						https://www.nba.com/raptors/;Total Championships 1				Green			14					Danny Green				Shooting Guard;Small Forward
+2020	4-2			USA			California					Los Angeles		Lakers						https://www.nba.com/lakers/;Total Championships 17				James			23					Lebron James			Small Forward;Power Forward
+2020	4-2			USA			California					Los Angeles		Lakers						https://www.nba.com/lakers/;Total Championships 17				Green			14					Danny Green				Shooting Guard;Small Forward
